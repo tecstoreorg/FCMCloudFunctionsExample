@@ -1,0 +1,24 @@
+{
+  "followers" : {
+    "EEWGFsTDZrWyusnqZTF45JfgBm63" : {
+      "ZygCwWrbijXnH7PP91snFcKvf4w1" : true,
+      "anotherUID" : true
+    }
+  },
+  "users" : {
+    "EEWGFsTDZrWyusnqZTF45JfgBm63" : {
+      "notificationTokens" : {
+        "cjY8RCngivA:APA91bF_pnVq5-l04n_QJawTZOPWrumM_IvZOi87mOTe-ec95cqTx8FmLEpkmkw1L07ogQD05hDrXbPkKJkzFKNkb5rSkpi0QmjIz-x5lK1RfLPGAdOCVTGrEipllavl6nDryc4eUKAR" : true
+      },
+      "photo" : "https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-11-2-128.png",
+      "userName" : "Ahmad"
+    },
+    "ZygCwWrbijXnH7PP91snFcKvf4w1" : {
+      "notificationTokens" : {
+        "ckdb16ozozE:APA91bG5lAet3fI6Xj5AZQ7vKa1Gavc9IInLv7Zocs_6oGnJuz9Tn6koqd0BBwH0k2Hxs8FRDK7y9yfzS80lsmKYnDaAgstutV4bPkZpxMr8xHkoLp_yo_aP6ng_5kgbHRwdoUBsACcq" : true
+      },
+      "photo" : "https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-11-2-128.png",
+      "userName" : "Sobhe"
+    }
+  }
+}
